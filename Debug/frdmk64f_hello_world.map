@@ -393,7 +393,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xa8 ./drivers/fsl_common.o
  .debug_macro   0x0000000000000000      0x174 ./drivers/fsl_common.o
  .debug_line    0x0000000000000000      0x3d1 ./drivers/fsl_common.o
- .debug_str     0x0000000000000000    0x79e49 ./drivers/fsl_common.o
+ .debug_str     0x0000000000000000    0x79e3f ./drivers/fsl_common.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_common.o
  .debug_frame   0x0000000000000000       0x58 ./drivers/fsl_common.o
  .ARM.attributes
@@ -452,7 +452,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xa8 ./drivers/fsl_common_arm.o
  .debug_macro   0x0000000000000000      0x174 ./drivers/fsl_common_arm.o
  .debug_line    0x0000000000000000      0x380 ./drivers/fsl_common_arm.o
- .debug_str     0x0000000000000000    0x79dba ./drivers/fsl_common_arm.o
+ .debug_str     0x0000000000000000    0x79db0 ./drivers/fsl_common_arm.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_common_arm.o
  .debug_frame   0x0000000000000000       0x64 ./drivers/fsl_common_arm.o
  .ARM.attributes
@@ -533,7 +533,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./drivers/fsl_ftfx_cache.o
  .debug_macro   0x0000000000000000       0x10 ./drivers/fsl_ftfx_cache.o
  .debug_line    0x0000000000000000      0x4e0 ./drivers/fsl_ftfx_cache.o
- .debug_str     0x0000000000000000    0x7c0ad ./drivers/fsl_ftfx_cache.o
+ .debug_str     0x0000000000000000    0x7c0a3 ./drivers/fsl_ftfx_cache.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_ftfx_cache.o
  .debug_frame   0x0000000000000000      0x138 ./drivers/fsl_ftfx_cache.o
  .ARM.attributes
@@ -654,7 +654,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./drivers/fsl_ftfx_controller.o
  .debug_macro   0x0000000000000000       0x10 ./drivers/fsl_ftfx_controller.o
  .debug_line    0x0000000000000000      0xcd0 ./drivers/fsl_ftfx_controller.o
- .debug_str     0x0000000000000000    0x7ccaf ./drivers/fsl_ftfx_controller.o
+ .debug_str     0x0000000000000000    0x7cca5 ./drivers/fsl_ftfx_controller.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_ftfx_controller.o
  .debug_frame   0x0000000000000000      0x40c ./drivers/fsl_ftfx_controller.o
  .ARM.attributes
@@ -779,7 +779,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x10 ./drivers/fsl_ftfx_flash.o
  .debug_macro   0x0000000000000000       0x1c ./drivers/fsl_ftfx_flash.o
  .debug_line    0x0000000000000000      0xa99 ./drivers/fsl_ftfx_flash.o
- .debug_str     0x0000000000000000    0x7cee1 ./drivers/fsl_ftfx_flash.o
+ .debug_str     0x0000000000000000    0x7ced7 ./drivers/fsl_ftfx_flash.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_ftfx_flash.o
  .debug_frame   0x0000000000000000      0x430 ./drivers/fsl_ftfx_flash.o
  .ARM.attributes
@@ -839,7 +839,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x7c ./drivers/fsl_ftfx_flexnvm.o
  .debug_macro   0x0000000000000000       0x10 ./drivers/fsl_ftfx_flexnvm.o
  .debug_line    0x0000000000000000      0x3aa ./drivers/fsl_ftfx_flexnvm.o
- .debug_str     0x0000000000000000    0x7af94 ./drivers/fsl_ftfx_flexnvm.o
+ .debug_str     0x0000000000000000    0x7af8a ./drivers/fsl_ftfx_flexnvm.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_ftfx_flexnvm.o
  .ARM.attributes
                 0x0000000000000000       0x39 ./drivers/fsl_ftfx_flexnvm.o
@@ -911,7 +911,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x174 ./drivers/fsl_gpio.o
  .debug_macro   0x0000000000000000       0x10 ./drivers/fsl_gpio.o
  .debug_line    0x0000000000000000      0x432 ./drivers/fsl_gpio.o
- .debug_str     0x0000000000000000    0x7a844 ./drivers/fsl_gpio.o
+ .debug_str     0x0000000000000000    0x7a83a ./drivers/fsl_gpio.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_gpio.o
  .debug_frame   0x0000000000000000       0xc8 ./drivers/fsl_gpio.o
  .ARM.attributes
@@ -998,7 +998,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0xa8 ./drivers/fsl_smc.o
  .debug_macro   0x0000000000000000      0x174 ./drivers/fsl_smc.o
  .debug_line    0x0000000000000000      0x61d ./drivers/fsl_smc.o
- .debug_str     0x0000000000000000    0x7ab77 ./drivers/fsl_smc.o
+ .debug_str     0x0000000000000000    0x7ab6d ./drivers/fsl_smc.o
  .comment       0x0000000000000000       0x4a ./drivers/fsl_smc.o
  .debug_frame   0x0000000000000000      0x224 ./drivers/fsl_smc.o
  .ARM.attributes
@@ -1312,7 +1312,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000      0x174 ./component/lists/fsl_component_generic_list.o
  .debug_macro   0x0000000000000000       0x10 ./component/lists/fsl_component_generic_list.o
  .debug_line    0x0000000000000000      0x6da ./component/lists/fsl_component_generic_list.o
- .debug_str     0x0000000000000000    0x7a04b ./component/lists/fsl_component_generic_list.o
+ .debug_str     0x0000000000000000    0x7a041 ./component/lists/fsl_component_generic_list.o
  .comment       0x0000000000000000       0x4a ./component/lists/fsl_component_generic_list.o
  .debug_frame   0x0000000000000000      0x254 ./component/lists/fsl_component_generic_list.o
  .ARM.attributes
@@ -2722,31 +2722,31 @@ LOAD linker stubs
  .debug_line    0x000000000000563f      0x4a9 ./board/clock_config.o
  .debug_line    0x0000000000005ae8      0x447 ./board/pin_mux.o
 
-.debug_str      0x0000000000000000    0x803b0
- .debug_str     0x0000000000000000    0x79e21 ./utilities/fsl_assert.o
-                                      0x79eac (size before relaxing)
- .debug_str     0x0000000000079e21     0x163d ./utilities/fsl_debug_console.o
-                                      0x7b547 (size before relaxing)
- .debug_str     0x000000000007b45e      0x7e0 ./startup/startup_mk64f12.o
-                                       0x3677 (size before relaxing)
- .debug_str     0x000000000007bc3e      0xdd0 ./source/hello_world.o
-                                      0x7ac44 (size before relaxing)
- .debug_str     0x000000000007ca0e       0x1f ./source/semihost_hardfault.o
-                                       0x2e1c (size before relaxing)
- .debug_str     0x000000000007ca2d     0x1e39 ./drivers/fsl_clock.o
-                                      0x7c573 (size before relaxing)
- .debug_str     0x000000000007e866     0x1358 ./drivers/fsl_uart.o
-                                      0x7bead (size before relaxing)
- .debug_str     0x000000000007fbbe      0x127 ./device/system_MK64F12.o
-                                      0x7845c (size before relaxing)
- .debug_str     0x000000000007fce5       0xe9 ./component/uart/fsl_adapter_uart.o
-                                      0x7ae2e (size before relaxing)
- .debug_str     0x000000000007fdce       0x37 ./board/board.o
-                                      0x7aba2 (size before relaxing)
- .debug_str     0x000000000007fe05      0x3b7 ./board/clock_config.o
-                                      0x7aecb (size before relaxing)
- .debug_str     0x00000000000801bc      0x1f4 ./board/pin_mux.o
-                                      0x7a3f5 (size before relaxing)
+.debug_str      0x0000000000000000    0x803a6
+ .debug_str     0x0000000000000000    0x79e17 ./utilities/fsl_assert.o
+                                      0x79ea2 (size before relaxing)
+ .debug_str     0x0000000000079e17     0x163d ./utilities/fsl_debug_console.o
+                                      0x7b53d (size before relaxing)
+ .debug_str     0x000000000007b454      0x7e0 ./startup/startup_mk64f12.o
+                                       0x366d (size before relaxing)
+ .debug_str     0x000000000007bc34      0xdd0 ./source/hello_world.o
+                                      0x7ac3a (size before relaxing)
+ .debug_str     0x000000000007ca04       0x1f ./source/semihost_hardfault.o
+                                       0x2e12 (size before relaxing)
+ .debug_str     0x000000000007ca23     0x1e39 ./drivers/fsl_clock.o
+                                      0x7c569 (size before relaxing)
+ .debug_str     0x000000000007e85c     0x1358 ./drivers/fsl_uart.o
+                                      0x7bea3 (size before relaxing)
+ .debug_str     0x000000000007fbb4      0x127 ./device/system_MK64F12.o
+                                      0x78452 (size before relaxing)
+ .debug_str     0x000000000007fcdb       0xe9 ./component/uart/fsl_adapter_uart.o
+                                      0x7ae24 (size before relaxing)
+ .debug_str     0x000000000007fdc4       0x37 ./board/board.o
+                                      0x7ab98 (size before relaxing)
+ .debug_str     0x000000000007fdfb      0x3b7 ./board/clock_config.o
+                                      0x7aec1 (size before relaxing)
+ .debug_str     0x00000000000801b2      0x1f4 ./board/pin_mux.o
+                                      0x7a3eb (size before relaxing)
 
 .comment        0x0000000000000000       0x49
  .comment       0x0000000000000000       0x49 ./utilities/fsl_assert.o
